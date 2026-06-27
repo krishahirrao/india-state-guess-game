@@ -96,12 +96,6 @@ The generated CSV contains every State & Union Territory you didn't guess, makin
 
 ---
 
-## 📸 Preview
-
-### Gameplay
-
-> Add your gameplay GIF here
-
 Example:
 
 - Guess a State or Union Territory.
@@ -165,15 +159,3 @@ It helps others discover the project and motivates me to build more projects lik
 
 **Krish Ahirrao**
 
-- **GitHub:** https://github.com/krishahirrao
-- **LinkedIn:** https://www.linkedin.com/in/krish-ahirrao/
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-### 💻 Built over a weekend using Python to make learning Indian geography a little more fun! 🇮🇳
